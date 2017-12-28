@@ -1,0 +1,2 @@
+# NCKSpecs
+NCKSpecs仓库
